@@ -1,0 +1,6 @@
+.vscode/
+.ipynb_checkpoints/
+blog-authorship-corpus.zip
+out_blog_data.csv
+out_publications_vs_age.csv
+python_venv
